@@ -1,0 +1,32 @@
+[
+  {
+    "id": 0,
+    "liked": [
+      "liked_zero",
+      "liked_one"
+    ],
+    "location": "Ukraine",
+    "name": "android_zero",
+    "photo": "ic_android_zero",
+    "photos": "ic_android_zero",
+    "time": "3 Hours ago"
+  },
+
+  {
+    "id": 1,
+    "liked": [
+      "liked_zero",
+      "liked_one",
+      "liked_two",
+      "liked_three",
+      "liked_four",
+      "liked_five",
+      "liked_six"
+    ],
+    "location": "Ukraine",
+    "name": "android_one",
+    "photo": "ic_android_one",
+    "photos": "ic_android_one",
+    "time": "7 Hours ago"
+  }
+]

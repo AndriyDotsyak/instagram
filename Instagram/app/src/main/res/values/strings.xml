@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Instagram</string>
+    
+    <string name="in_liked_by">Liked by <b>%1$s</b></string>
+    <string name="in_liked_by_others">Liked by <b>%1$s</b> and <b>%2$d others</b></string>
+</resources>
